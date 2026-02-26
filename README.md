@@ -10,8 +10,6 @@ In this project, I performed data cleaning and transformation on a raw dataset u
 
 Imported data from Excel/CSV files
 
-Combined data from multiple files (Folder import)
-
 Removed duplicate records
 
 Removed blank/null rows
